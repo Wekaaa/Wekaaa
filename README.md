@@ -8,7 +8,7 @@ I'm JavaScript developer.
 - **Server** [Link](https://discord.gg/E6fRFX3Xqc)(Weka's Home)
 
 
-#My Github Stats 
+# My Github Stats 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Vallenss&show_icons=true&theme=radical" alt="vallenssgithubistatistik" /></p>
 
